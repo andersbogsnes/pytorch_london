@@ -16,16 +16,15 @@ Slides are on [Google Slides](https://docs.google.com/presentation/d/1mogRSKPf8m
 
 # Index
 ## What's a neural net all about? 
-0. [What's a neural net?](./Intro_Regression.ipynb)
+0. [What's a neural net?](0.Intro_Regression.ipynb)
 
 
 ## Implementing Linear Regression from scratch
-1. [Regression from scratch in Numpy](Numpy_Regression.ipynb)
-2. [Regression from scratch in Pytorch](Plain_Pytorch_Regression.ipynb)
-3. [Regression in Pytorch](Pytorch_Regression.ipynb) 
+1. [Regression from scratch in Numpy](1.Numpy_Regression.ipynb)
+2. [Regression from scratch in Pytorch](2.Plain_Pytorch_Regression.ipynb)
 
 ## Let's build a Deep Learning model from scratch!
-4. [DL in raw Pytorch](Plain_Pytorch_Neural_Net.ipynb)
-5. [DL in Pytorch](Pytorch_Neural_Net.ipynb)
+4. [DL in raw Pytorch](3.Plain_Pytorch_Neural_Net.ipynb)
+5. [DL in Pytorch](4.Pytorch_Neural_Net.ipynb)
 
 
